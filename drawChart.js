@@ -1,3 +1,4 @@
+// JS table review my PG
 function drawChart(salaries) {
     let row = []
     salaries.forEach(item=>row.push([item[9],Number(item[18])]));
